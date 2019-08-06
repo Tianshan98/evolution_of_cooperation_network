@@ -1,0 +1,452 @@
+probability of rewiring an edge:0.3
+experiment number:0
+cooperation ratio:0.332
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.343,0.0,0.315,0.342,0.0,
+cooperation ratio:0.2805
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.349,0.0,0.311,0.34,0.0,
+cooperation ratio:0.2715
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.353,0.0,0.311,0.336,0.0,
+cooperation ratio:0.26
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.357,0.0,0.308,0.335,0.0,
+cooperation ratio:0.261
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.362,0.0,0.304,0.334,0.0,
+cooperation ratio:0.2445
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.365,0.0,0.299,0.336,0.0,
+cooperation ratio:0.242
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.367,0.0,0.299,0.334,0.0,
+cooperation ratio:0.244
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.368,0.0,0.301,0.331,0.0,
+cooperation ratio:0.2505
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.368,0.0,0.305,0.327,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.369,0.0,0.305,0.326,0.0,
+cooperation ratio:0.248
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.366,0.0,0.31,0.324,0.0,
+cooperation ratio:0.243
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.367,0.0,0.309,0.324,0.0,
+cooperation ratio:0.2505
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.371,0.0,0.308,0.321,0.0,
+cooperation ratio:0.2595
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.374,0.0,0.307,0.319,0.0,
+cooperation ratio:0.2655
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.307,0.321,0.0,
+cooperation ratio:0.27
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.311,0.317,0.0,
+cooperation ratio:0.273
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.313,0.315,0.0,
+cooperation ratio:0.2535
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.374,0.0,0.31,0.316,0.0,
+cooperation ratio:0.2605
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.312,0.312,0.0,
+cooperation ratio:0.254
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.312,0.312,0.0,
+cooperation ratio:0.2595
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.31,0.314,0.0,
+cooperation ratio:0.264
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.375,0.0,0.306,0.319,0.0,
+cooperation ratio:0.2495
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.373,0.0,0.309,0.318,0.0,
+cooperation ratio:0.272
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.374,0.0,0.308,0.318,0.0,
+cooperation ratio:0.264
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.373,0.0,0.309,0.318,0.0,
+cooperation ratio:0.2745
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.37,0.0,0.31,0.32,0.0,
+cooperation ratio:0.2805
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.307,0.321,0.0,
+cooperation ratio:0.268
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.371,0.0,0.31,0.319,0.0,
+cooperation ratio:0.2685
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.312,0.316,0.0,
+cooperation ratio:0.268
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.369,0.0,0.313,0.318,0.0,
+cooperation ratio:0.265
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.374,0.0,0.313,0.313,0.0,
+cooperation ratio:0.2625
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.313,0.311,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.311,0.309,0.0,
+cooperation ratio:0.249
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.31,0.31,0.0,
+cooperation ratio:0.248
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.382,0.0,0.309,0.309,0.0,
+cooperation ratio:0.2435
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.314,0.306,0.0,
+cooperation ratio:0.246
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.375,0.0,0.312,0.313,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.309,0.313,0.0,
+cooperation ratio:0.241
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.309,0.312,0.0,
+cooperation ratio:0.2535
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.306,0.316,0.0,
+cooperation ratio:0.264
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.377,0.0,0.306,0.317,0.0,
+cooperation ratio:0.2475
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.309,0.313,0.0,
+cooperation ratio:0.2545
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.384,0.0,0.304,0.312,0.0,
+cooperation ratio:0.258
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.385,0.0,0.304,0.311,0.0,
+cooperation ratio:0.261
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.39,0.0,0.303,0.307,0.0,
+cooperation ratio:0.2545
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.394,0.0,0.301,0.305,0.0,
+cooperation ratio:0.2495
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.395,0.0,0.301,0.304,0.0,
+cooperation ratio:0.254
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.393,0.0,0.301,0.306,0.0,
+cooperation ratio:0.254
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.395,0.0,0.298,0.307,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.394,0.0,0.299,0.307,0.0,
+cooperation ratio:0.241
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.393,0.0,0.3,0.307,0.0,
+cooperation ratio:0.2505
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.395,0.0,0.3,0.305,0.0,
+cooperation ratio:0.238
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.297,0.303,0.0,
+cooperation ratio:0.2445
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.299,0.301,0.0,
+cooperation ratio:0.2465
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.401,0.0,0.297,0.302,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.402,0.0,0.295,0.303,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.398,0.0,0.296,0.306,0.0,
+cooperation ratio:0.2535
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.297,0.303,0.0,
+cooperation ratio:0.249
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.404,0.0,0.296,0.3,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.295,0.3,0.0,
+cooperation ratio:0.243
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.401,0.0,0.297,0.302,0.0,
+cooperation ratio:0.244
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.406,0.0,0.294,0.3,0.0,
+cooperation ratio:0.24
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.293,0.302,0.0,
+cooperation ratio:0.224
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.406,0.0,0.294,0.3,0.0,
+cooperation ratio:0.2365
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.294,0.301,0.0,
+cooperation ratio:0.2395
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.404,0.0,0.297,0.299,0.0,
+cooperation ratio:0.2325
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.406,0.0,0.292,0.302,0.0,
+cooperation ratio:0.225
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.403,0.0,0.295,0.302,0.0,
+cooperation ratio:0.225
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.404,0.0,0.295,0.301,0.0,
+cooperation ratio:0.224
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.401,0.0,0.297,0.302,0.0,
+cooperation ratio:0.241
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.401,0.0,0.298,0.301,0.0,
+cooperation ratio:0.2355
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.404,0.0,0.296,0.3,0.0,
+cooperation ratio:0.232
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.404,0.0,0.298,0.298,0.0,
+cooperation ratio:0.2385
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.3,0.295,0.0,
+cooperation ratio:0.248
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.402,0.0,0.296,0.302,0.0,
+cooperation ratio:0.234
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.404,0.0,0.293,0.303,0.0,
+cooperation ratio:0.2355
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.292,0.303,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.29,0.305,0.0,
+cooperation ratio:0.2335
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.403,0.0,0.291,0.306,0.0,
+cooperation ratio:0.237
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.401,0.0,0.291,0.308,0.0,
+cooperation ratio:0.2425
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.285,0.315,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.285,0.31,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.408,0.0,0.283,0.309,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.406,0.0,0.283,0.311,0.0,
+cooperation ratio:0.2355
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.405,0.0,0.282,0.313,0.0,
+cooperation ratio:0.2385
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.402,0.0,0.283,0.315,0.0,
+cooperation ratio:0.248
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.283,0.317,0.0,
+cooperation ratio:0.2555
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.286,0.315,0.0,
+cooperation ratio:0.241
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.284,0.317,0.0,
+cooperation ratio:0.243
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.403,0.0,0.282,0.315,0.0,
+cooperation ratio:0.245
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.401,0.0,0.284,0.315,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.402,0.0,0.283,0.315,0.0,
+cooperation ratio:0.257
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.403,0.0,0.284,0.313,0.0,
+cooperation ratio:0.2405
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.402,0.0,0.281,0.317,0.0,
+cooperation ratio:0.2325
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.281,0.32,0.0,
+cooperation ratio:0.235
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.398,0.0,0.281,0.321,0.0,
+cooperation ratio:0.2235
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.281,0.323,0.0,
+cooperation ratio:0.2325
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.279,0.325,0.0,
+cooperation ratio:0.2435
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.398,0.0,0.276,0.326,0.0,
+cooperation ratio:0.2285
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.397,0.0,0.279,0.324,0.0,
+cooperation ratio:0.2425
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.279,0.322,0.0,
+cooperation ratio:0.2445
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.279,0.322,0.0,
+cooperation ratio:0.261
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.279,0.321,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.28,0.321,0.0,
+cooperation ratio:0.2495
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.4,0.0,0.28,0.32,0.0,
+cooperation ratio:0.2535
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.279,0.322,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.397,0.0,0.279,0.324,0.0,
+cooperation ratio:0.2475
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.395,0.0,0.277,0.328,0.0,
+cooperation ratio:0.243
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.397,0.0,0.279,0.324,0.0,
+cooperation ratio:0.244
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.277,0.327,0.0,
+cooperation ratio:0.2365
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.392,0.0,0.279,0.329,0.0,
+cooperation ratio:0.2475
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.392,0.0,0.277,0.331,0.0,
+cooperation ratio:0.2495
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.391,0.0,0.277,0.332,0.0,
+cooperation ratio:0.2325
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.391,0.0,0.276,0.333,0.0,
+cooperation ratio:0.237
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.275,0.329,0.0,
+cooperation ratio:0.235
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.275,0.329,0.0,
+cooperation ratio:0.246
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.395,0.0,0.273,0.332,0.0,
+cooperation ratio:0.2485
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.272,0.332,0.0,
+cooperation ratio:0.2555
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.272,0.332,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.395,0.0,0.272,0.333,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.268,0.333,0.0,
+cooperation ratio:0.2325
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.398,0.0,0.268,0.334,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.397,0.0,0.27,0.333,0.0,
+cooperation ratio:0.238
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.399,0.0,0.269,0.332,0.0,
+cooperation ratio:0.24
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.396,0.0,0.271,0.333,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.389,0.0,0.272,0.339,0.0,
+cooperation ratio:0.2325
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.384,0.0,0.274,0.342,0.0,
+cooperation ratio:0.241
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.384,0.0,0.271,0.345,0.0,
+cooperation ratio:0.232
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.384,0.0,0.271,0.345,0.0,
+cooperation ratio:0.248
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.386,0.0,0.271,0.343,0.0,
+cooperation ratio:0.242
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.385,0.0,0.273,0.342,0.0,
+cooperation ratio:0.245
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.381,0.0,0.276,0.343,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.277,0.344,0.0,
+cooperation ratio:0.2535
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.28,0.342,0.0,
+cooperation ratio:0.2585
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.382,0.0,0.276,0.342,0.0,
+cooperation ratio:0.2495
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.276,0.344,0.0,
+cooperation ratio:0.2535
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.278,0.346,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.375,0.0,0.28,0.345,0.0,
+cooperation ratio:0.2555
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.373,0.0,0.281,0.346,0.0,
+cooperation ratio:0.2445
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.282,0.342,0.0,
+cooperation ratio:0.2435
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.375,0.0,0.282,0.343,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.374,0.0,0.281,0.345,0.0,
+cooperation ratio:0.2395
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.377,0.0,0.282,0.341,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.279,0.342,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.377,0.0,0.28,0.343,0.0,
+cooperation ratio:0.2595
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.381,0.0,0.275,0.344,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.278,0.342,0.0,
+cooperation ratio:0.2525
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.28,0.342,0.0,
+cooperation ratio:0.261
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.381,0.0,0.277,0.342,0.0,
+cooperation ratio:0.243
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.383,0.0,0.279,0.338,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.383,0.0,0.281,0.336,0.0,
+cooperation ratio:0.239
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.384,0.0,0.283,0.333,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.387,0.0,0.279,0.334,0.0,
+cooperation ratio:0.249
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.388,0.0,0.281,0.331,0.0,
+cooperation ratio:0.2395
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.388,0.0,0.284,0.328,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.389,0.0,0.284,0.327,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.388,0.0,0.283,0.329,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.385,0.0,0.284,0.331,0.0,
+cooperation ratio:0.2655
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.385,0.0,0.284,0.331,0.0,
+cooperation ratio:0.233
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.382,0.0,0.285,0.333,0.0,
+cooperation ratio:0.2515
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.284,0.337,0.0,
+cooperation ratio:0.242
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.285,0.336,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.286,0.336,0.0,
+cooperation ratio:0.2615
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.381,0.0,0.284,0.335,0.0,
+cooperation ratio:0.244
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.284,0.337,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.283,0.339,0.0,
+cooperation ratio:0.2475
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.375,0.0,0.283,0.342,0.0,
+cooperation ratio:0.2525
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.283,0.339,0.0,
+cooperation ratio:0.244
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.282,0.34,0.0,
+cooperation ratio:0.2495
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.282,0.34,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.279,0.342,0.0,
+cooperation ratio:0.2485
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.28,0.341,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.281,0.341,0.0,
+cooperation ratio:0.2485
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.282,0.34,0.0,
+cooperation ratio:0.2465
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.283,0.338,0.0,
+cooperation ratio:0.257
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.377,0.0,0.284,0.339,0.0,
+cooperation ratio:0.2555
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.284,0.338,0.0,
+cooperation ratio:0.2615
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.284,0.338,0.0,
+cooperation ratio:0.268
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.281,0.339,0.0,
+cooperation ratio:0.254
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.38,0.0,0.282,0.338,0.0,
+cooperation ratio:0.2465
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.382,0.0,0.283,0.335,0.0,
+cooperation ratio:0.2565
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.381,0.0,0.283,0.336,0.0,
+cooperation ratio:0.2575
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.288,0.333,0.0,
+cooperation ratio:0.2625
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.291,0.331,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.293,0.329,0.0,
+cooperation ratio:0.247
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.378,0.0,0.293,0.329,0.0,
+cooperation ratio:0.246
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.379,0.0,0.291,0.33,0.0,
+cooperation ratio:0.2365
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.293,0.331,0.0,
+cooperation ratio:0.251
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.376,0.0,0.293,0.331,0.0,
+cooperation ratio:0.256
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.373,0.0,0.294,0.333,0.0,
+cooperation ratio:0.2565
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.296,0.332,0.0,
+cooperation ratio:0.2475
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.371,0.0,0.298,0.331,0.0,
+cooperation ratio:0.2585
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.371,0.0,0.298,0.331,0.0,
+cooperation ratio:0.2555
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.37,0.0,0.298,0.332,0.0,
+cooperation ratio:0.255
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.372,0.0,0.296,0.332,0.0,
+cooperation ratio:0.258
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.37,0.0,0.296,0.334,0.0,
+cooperation ratio:0.2575
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.367,0.0,0.297,0.336,0.0,
+cooperation ratio:0.2585
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.368,0.0,0.295,0.337,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.366,0.0,0.296,0.338,0.0,
+cooperation ratio:0.248
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.364,0.0,0.299,0.337,0.0,
+cooperation ratio:0.262
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.3,0.337,0.0,
+cooperation ratio:0.2595
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.302,0.335,0.0,
+cooperation ratio:0.249
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.303,0.334,0.0,
+cooperation ratio:0.252
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.364,0.0,0.301,0.335,0.0,
+cooperation ratio:0.2455
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.301,0.336,0.0,
+cooperation ratio:0.242
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.362,0.0,0.304,0.334,0.0,
+cooperation ratio:0.2645
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.364,0.0,0.303,0.333,0.0,
+cooperation ratio:0.262
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.366,0.0,0.301,0.333,0.0,
+cooperation ratio:0.265
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.364,0.0,0.302,0.334,0.0,
+cooperation ratio:0.2585
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.301,0.336,0.0,
+cooperation ratio:0.253
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.362,0.0,0.299,0.339,0.0,
+cooperation ratio:0.2615
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.364,0.0,0.299,0.337,0.0,
+cooperation ratio:0.269
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.365,0.0,0.3,0.335,0.0,
+cooperation ratio:0.2565
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.367,0.0,0.299,0.334,0.0,
+cooperation ratio:0.2675
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.365,0.0,0.301,0.334,0.0,
+cooperation ratio:0.265
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.364,0.0,0.301,0.335,0.0,
+cooperation ratio:0.277
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.3,0.337,0.0,
+cooperation ratio:0.282
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.361,0.0,0.301,0.338,0.0,
+cooperation ratio:0.2645
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.361,0.0,0.3,0.339,0.0,
+cooperation ratio:0.264
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.361,0.0,0.299,0.34,0.0,
+cooperation ratio:0.263
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.36,0.0,0.3,0.34,0.0,
+cooperation ratio:0.2575
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.296,0.341,0.0,
+cooperation ratio:0.25
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.366,0.0,0.296,0.338,0.0,
+cooperation ratio:0.2595
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.298,0.339,0.0,
+cooperation ratio:0.269
+rate_uc, rate_ud, rate_tft, rate_cr, rate_ur, rate_sj:0.0,0.363,0.0,0.298
