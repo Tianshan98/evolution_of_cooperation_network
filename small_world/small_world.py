@@ -63,7 +63,7 @@ for experiment in range(20):
         for ratio in B:
             f.write('{}'.format(ratio))
             f.write(',')
-            print(ratio)
+            #print(ratio)
         
         f.write('\n')
     
@@ -75,7 +75,7 @@ for experiment in range(20):
             break
     
         if counter == TMAX:
-            f.write("Reaches 10000 rounds.")
+            f.write("Reaches 100000 rounds.")
             f.write('\n')
             break
 
